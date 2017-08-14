@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=" Resturant Admin"
+        android:id="@+id/btnAdmin"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+        />
+    <item
+        android:title=" Hotels Admin"
+        android:id="@+id/btnHotels"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+        />
+    <item
+        android:title=" Car Admin"
+        android:id="@+id/btnCarServices"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+        />
+    <item
+        android:title=" Pretol Admin"
+        android:id="@+id/btnPetrol_Station"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+        />
+    <item
+        android:title=" Hospital Admin"
+        android:id="@+id/btnHospital"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+        />
+    <item
+        android:title=" Malls Admin"
+        android:id="@+id/btnShopping"
+        android:orderInCategory="90"
+        app:showAsAction="never"
+        />
+
+</menu>
